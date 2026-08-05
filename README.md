@@ -367,11 +367,16 @@ Add application screenshots here.
 screenshots/
 
 ├── dashboard.png
+<img width="1280" height="832" alt="PHOTO-2026-08-05-19-21-09" src="https://github.com/user-attachments/assets/5159d973-a77d-4b3f-8fc3-b4e8a8d5c190" />
+
 ├── prediction.png
+<img width="1280" height="832" alt="PHOTO-2026-08-05-19-21-45" src="https://github.com/user-attachments/assets/44599802-9ad9-44de-9327-552f44060f16" />
+
 ├── sentiment.png
+<img width="1280" height="832" alt="PHOTO-2026-08-05-19-23-09" src="https://github.com/user-attachments/assets/dfe8aa70-718d-4bcd-980a-483d91bdff6f" />
+
 ├── explainability.png
-└── stock-search.png
-```
+<img width="1280" height="832" alt="PHOTO-2026-08-05-19-25-09" src="https://github.com/user-attachments/assets/b57e56a0-8fd1-47d6-b5fc-de0e3557383b" />
 
 ---
 
