@@ -379,8 +379,6 @@ explainability.png
 
 ## Frontend
 
-Deploy using **Vercel**.
-
 ```bash
 npm run build
 ```
